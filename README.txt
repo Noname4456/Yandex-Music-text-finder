@@ -1,1 +1,0 @@
-Just open ym_lyrics.bat
